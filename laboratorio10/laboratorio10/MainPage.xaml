@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:laboratorio10"
+             x:Class="laboratorio10.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="LABORATORIO 10" 
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+
+		<Button x:Name="btnViewToViewDemo" Text="ViewToViewDemo" 
+				FontSize="10" FontFamily="fantasy"></Button>
+		<Button x:Name="btnBindingModeDemo" Text="BindingModeDemo" 
+				FontSize="10" FontFamily="fantasy"></Button>
+		<Button x:Name="btnListViewDemo" Text="ListViewDemo" 
+				FontSize="10" FontFamily="fantasy"></Button>
+		<Button x:Name="btnPickerDemo" Text="PickerDemo" 
+				FontSize="10" FontFamily="fantasy"></Button>
+    </StackLayout>
+
+</ContentPage>
+D

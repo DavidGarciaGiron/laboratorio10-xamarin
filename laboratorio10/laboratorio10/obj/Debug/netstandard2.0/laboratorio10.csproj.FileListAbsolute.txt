@@ -1,0 +1,16 @@
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\bin\Debug\netstandard2.0\laboratorio10.deps.json
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\bin\Debug\netstandard2.0\laboratorio10.dll
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\bin\Debug\netstandard2.0\laboratorio10.pdb
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\laboratorio10.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\ViewToViewDemo.xaml.g.cs
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\laboratorio10.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\laboratorio10.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\laboratorio10.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\laboratorio10.dll
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\laboratorio10.pdb
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\BindingModeDemo.xaml.g.cs
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\ListViewDemo.xaml.g.cs
+C:\Users\Alumno\Desktop\david\laboratorio10\laboratorio10\laboratorio10\obj\Debug\netstandard2.0\PickerDemo.xaml.g.cs
